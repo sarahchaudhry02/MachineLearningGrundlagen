@@ -1,4 +1,4 @@
-# MachineLearningGrundlagen
+# MachineLearningGrundlagen in Python
 
 (Noch in überarbeitung)
 
