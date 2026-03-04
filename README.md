@@ -1,5 +1,7 @@
 # MachineLearningGrundlagen
 
+(Noch in überarbeitung)
+
 Dieses Projekt bietet eine Einführung in die Grundlagen des Machine Learning.
 
 Das Projekt besteht aus:
