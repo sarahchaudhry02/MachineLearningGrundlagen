@@ -8,11 +8,11 @@ Das Projekt besteht aus:
 
 - Mathemische Konzepte
 
-- - Logistisches Modell mit zugehörigem Gradienten
+ - Logistisches Modell mit zugehörigem Gradienten
 
-- - Kostenfunktionen ( mse und bce)
+ - Kostenfunktionen ( mse und bce)
 
-- - Gradient Descent / Gradientenabstiegverfahren
+ - Gradient Descent / Gradientenabstiegverfahren
 
 - Linearer SVM Klassifikator mit MNIST
 
